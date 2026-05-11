@@ -1,0 +1,8 @@
+stage,stage_name,survival_annual,growth_prob,fecundity_recruits,sojourn_time_yrs,notes
+1,Phyllosoma,0.01,0.7,0,0.5,Pelagic larval phase 6-12 months; high predation
+2,Puerulus,0.12,0.85,0,0.3,Post-larval settlement; shelter-dependent
+3,EarlyJuvenile,0.55,0.5,0,1.5,Benthic juvenile; cryptic habitat required
+4,LateJuvenile,0.68,0.45,0,1.8,Late juvenile; growth food-dependent
+5,Subadult,0.75,0.4,0,2,Pre-reproductive; territorial behaviour
+6,SmallAdult,0.82,0.3,2.5,3,Reproducing adult; carapace > 70 mm
+7,LargeAdult,0.78,0,6.8,NA,Large female; fecundity increases with size

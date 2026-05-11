@@ -1,0 +1,21 @@
+age,length_cm,weight_g,natural_mort,survival_prob,maturity,fecundity_eggs,notes
+1,15.38,45,0.4152,0.6602,1e-4,0,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+2,23.55,165.9,0.3147,0.73,0.0023,57,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+3,30.38,361.4,0.2667,0.7659,0.039,2114,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+4,36.08,611.8,0.2385,0.7878,0.3088,28335,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+5,40.85,894,0.22,0.8025,0.7681,103010,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+6,44.83,1188.2,0.2071,0.8129,0.9464,168673,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+7,48.15,1478.8,0.1977,0.8206,0.9862,218763,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+8,50.93,1755.5,0.1906,0.8264,0.9957,262185,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+9,53.24,2011.7,0.1852,0.8309,0.9984,301266,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+10,55.18,2244.1,0.181,0.8345,0.9993,336376,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+11,56.8,2451.6,0.1776,0.8373,0.9996,367602,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+12,58.15,2634.4,0.1749,0.8395,0.9998,395085,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+13,59.28,2794.1,0.1727,0.8414,0.9999,419054,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+14,60.22,2932.3,0.171,0.8429,0.9999,439800,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+15,61.01,3051.2,0.1695,0.8441,0.9999,457645,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+16,61.67,3152.9,0.1683,0.8451,1,472917,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+17,62.21,3239.7,0.1674,0.8459,1,485931,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+18,62.67,3313.3,0.1666,0.8466,1,496984,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+19,63.06,3375.7,0.1659,0.8471,1,506345,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M
+20,63.38,3428.4,0.1654,0.8476,1,514254,von Bertalanffy: Linf=65 K=0.18 t0=-0.5; Lorenzen M

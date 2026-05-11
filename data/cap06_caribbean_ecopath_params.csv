@@ -1,0 +1,11 @@
+group_id,group_name,type,trophic_level,biomass_t_km2,PB_per_yr,QB_per_yr,EE,catch_t_km2_yr,notes
+1,Phytoplankton,Producer,1,25,180,NA,0.9,0,Primary producer; satellite chlorophyll
+2,Zooplankton,Consumer,2.1,8,50,165,0.88,0,Copepods and euphausiids
+3,Zoobenthos,Consumer,2.2,12,10,35,0.9,0,"Polychaetes, molluscs, echinoderms"
+4,LaneSnapper,Consumer,3.3,1.8,1.5,5.8,0.82,0.65,Main target; Castillo-Navarro (2019)
+5,RedSnapper,Consumer,3.4,0.9,1.2,5.2,0.78,0.3,Secondary target; deep reef snapper
+6,Weakfish,Consumer,3.6,2.2,1.8,6.5,0.72,0.45,By-catch; demersal sciaenid
+7,KingCrab,Consumer,2.8,0.5,1,4,0.68,0.12,By-catch; reef invertebrate
+8,Grouper,Consumer,4.1,0.6,0.7,3.2,0.6,0.18,Apex demersal predator
+9,Sharks,Consumer,4.3,0.2,0.3,2.5,0.4,0.02,Large pelagic; incidental catch
+10,Detritus,Detritus,1,30,NA,NA,0.18,0,Benthic and pelagic organic matter
