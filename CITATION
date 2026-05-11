@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite the book."
+authors:
+  - family-names: "Castillo-Navarro"
+    given-names: "Helbert"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+title: "EcoDataSci-AquaticMarine"
+version: 1.0.0
+date-released: 2026-01-01
+url: "https://github.com/YOUR_USERNAME/EcoDataSci-AquaticMarine"
+preferred-citation:
+  type: book
+  title: "Ecological Data Science for Aquatic and 
+          Marine Systems"
+  publisher: "Springer Nature"
+  year: 2026
