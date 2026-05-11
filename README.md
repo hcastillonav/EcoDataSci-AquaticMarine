@@ -1,4 +1,5 @@
 # EcoDataSci-AquaticMarine
+
 Data repository for "Ecological Data Science for Aquatic and Marine Systems: Quantitative Methods, Population Dynamics and Machine Learning in R" (Springer Nature)
 
 Companion data repository for:
@@ -23,8 +24,7 @@ reproducibility. Parameters are documented in the
 ## How to load in R
 
 ```r
-base_url <- "https://raw.githubusercontent.com/
-             YOUR_USERNAME/EcoDataSci-AquaticMarine/main/data/"
+base_url <- "https://raw.githubusercontent.com/hcastillonav/EcoDataSci-AquaticMarine/main/data/"
 
 # Example: Chapter 2 dataset
 cpua <- read.csv(paste0(base_url, "cap02_lutjanus_cpua.csv"))
@@ -38,6 +38,12 @@ Code: MIT License
 ## Citation
 
 See CITATION.cff or cite as:  
-Castillo-Navarro et al. (2026), Springer Nature.
+Castillo-Navarro, H. (2026). *Ecological Data Science for Aquatic 
+and Marine Systems*. Springer Nature, Use R! Series.
+
+---
+
+© 2026 Harold Castillo-Navarro. 
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
