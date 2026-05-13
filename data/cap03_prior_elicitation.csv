@@ -1,0 +1,11 @@
+parameter,description,prior_family,prior_mean,prior_sd,prior_lower,prior_upper,literature_source
+r,Intrinsic growth rate,lognormal,0.28,0.15,0.05,0.8,Fisheries literature Caribbean snappers
+K,Carrying capacity (relative),lognormal,850,250,200,2000,INVEMAR stock assessment reports
+q,Catchability coefficient,lognormal,0.0012,6e-4,2e-4,0.005,Castillo-Navarro (2019)
+sigma_p,Process noise SD (log scale),half-normal,0.12,0.08,0.01,0.5,Meyer & Millar (1999)
+sigma_o,Observation noise SD (log scale),half-normal,0.18,0.1,0.01,0.6,Meyer & Millar (1999)
+beta_temp,Temperature effect (log-CPUA),normal,0.24,0.15,-0.5,0.8,Cap 2 Tweedie GLMM posterior
+beta_chl,Chlorophyll effect (log-CPUA),normal,-0.38,0.2,-1,0.2,Cap 2 Tweedie GLMM posterior
+beta_depth,Depth quadratic effect,normal,-0.05,0.025,-0.15,0.05,Cap 2 Tweedie GLMM posterior
+sigma_vessel,Vessel random intercept SD,half-normal,0.35,0.2,0.01,1.5,Cap 2 Tweedie GLMM posterior
+p_tweedie,Tweedie power index,beta,1.55,0.15,1.1,1.9,Castillo-Navarro (2019)
